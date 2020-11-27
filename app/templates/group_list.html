@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+		<title>Careno</title>
+
+ 		<!-- Google font -->
+ 		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet">
+
+ 		<!-- Bootstrap -->
+ 		<link type="text/css" rel="stylesheet" href="../static/bootstrap.min.css"/>
+
+ 		<!-- Slick -->
+ 		<link type="text/css" rel="stylesheet" href="../static/slick.css"/>
+ 		<link type="text/css" rel="stylesheet" href="../static/slick-theme.css"/>
+
+ 		<!-- nouislider -->
+ 		<link type="text/css" rel="stylesheet" href="../static/nouislider.min.css"/>
+
+ 		<!-- Font Awesome Icon -->
+ 		<link rel="stylesheet" href="../static/font-awesome.min.css">
+
+ 		<!-- Custom stlylesheet -->
+ 		<link type="text/css" rel="stylesheet" href="../static/style.css"/>
+
+		<link rel="icon" href="../static/img/favicon.png">
+
+
+		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+    </head>
+	<body>
+		<!-- HEADER -->
+			{% include '/header.html' %}
+		<!-- /HEADER -->
+
+		<!-- SECTION -->
+		<div class="section">
+			<!-- container -->
+			<div class="container">
+				<!-- row -->
+				<div class="row">
+
+					<!-- STORE -->
+					<div id="store" class="col-md-12">
+
+						<!-- store products -->
+						<div class="row">
+							<div class="col-md-12">
+                                <div class="col-md-4">
+									<form action="/all_cars" method="GET">
+										<input type="hidden" name="name" value="{{ group_name }}" />
+										<a onclick="this.parentNode.submit()">Xem tất cả giá xe {{ group_name }} >></a>
+									</form>
+								</div>
+								<div class="col-md-8">{{ pagination.links }}</div>
+							</div>
+							<!-- product -->
+							{% for car in result %}
+								<div class="col-md-3 col-xs-6">
+									<div class="product">
+										<div class="product-img">
+											<img src="{{ car['image'] }}" alt="" onerror="this.src='../static/img/none_img.jpg'">
+										</div>
+										<div class="product-body">
+											<h3 class="car-name">
+												<form action="/cars" method="GET">
+													<input type="hidden" name="name" value="{{ car['identity']['name'] }}" />
+													<a href="#" onclick="this.parentNode.submit()" > {{ car['identity']['name'] }} </a>
+												</form>
+											</h3>
+											<div class="product-btns">
+												<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
+												<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
+												<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
+											</div>
+										</div>
+										<div class="price-compare">
+											<form action="/cars" method="GET">
+                    							<button name="name" class="price-compare-btn" value="{{ car['identity']['name'] }}"><i class="fa fa-shopping-cart"></i> So sánh giá</button>
+											</form>
+										</div>
+									</div>
+								</div>
+								{% if (result.index(car) + 1) % 4 == 0 %}
+							    	<div class="clearfix visible-lg visible-md"></div>
+								{% elif (result.index(car) + 1) % 2 == 0 %}
+									<div class="clearfix visible-sm visible-xs"></div>
+								{% endif %}
+							{% endfor %}
+							<!-- /product -->
+						</div>
+						<!-- /store products -->
+						<!--{{ pagination.info }}-->
+					    {{ pagination.links }}
+
+						<!-- /store bottom filter -->
+					</div>
+					<!-- /STORE -->
+				</div>
+				<!-- /row -->
+			</div>
+			<!-- /container -->
+		</div>
+		<!-- /SECTION -->
+
+		<!-- /FOOTER -->
+			{% include '/footer.html' %}
+		<!-- /FOOTER -->
+
+
+		<!-- jQuery Plugins -->
+		<script src="../static/js/jquery.min.js"></script>
+		<script src="../static/js/bootstrap.min.js"></script>
+		<script src="../static/js/slick.min.js"></script>
+		<script src="../static/js/nouislider.min.js"></script>
+		<script src="../static/js/jquery.zoom.min.js"></script>
+		<script src="../static/js/main.js"></script>
+		<script src="../static/js/clear.js"></script>
+
+	</body>
+</html>

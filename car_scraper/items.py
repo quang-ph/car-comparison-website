@@ -1,0 +1,43 @@
+import scrapy
+
+
+class BaseCarInfo(scrapy.Item):
+    identity = scrapy.Field()
+    dimension = scrapy.Field()
+    fuel_tank = scrapy.Field()
+    engine = scrapy.Field()
+    engine_power = scrapy.Field()
+    momentum = scrapy.Field()
+    ground_clearance = scrapy.Field()
+    minimum_turn_diameter = scrapy.Field()
+    style = scrapy.Field()
+    transmission = scrapy.Field()
+    fuel_consumption = scrapy.Field()
+    price = scrapy.Field()
+    image = scrapy.Field()
+
+
+class CarPost(scrapy.Item):
+    post_title = scrapy.Field()
+    posted_time = scrapy.Field()
+    post_link = scrapy.Field()
+    brand = scrapy.Field()
+    line = scrapy.Field()
+    version = scrapy.Field()
+    year = scrapy.Field()
+    price = scrapy.Field()
+    status = scrapy.Field()
+    source = scrapy.Field()
+    location = scrapy.Field()
+    seller_name = scrapy.Field()
+    transmission = scrapy.Field()
+    images = scrapy.Field()
+    color = scrapy.Field()
+    car_type = scrapy.Field()
+    classify = scrapy.Field()
+    engine_volume = scrapy.Field()
+    style = scrapy.Field()
+    transmission_2 = scrapy.Field()
+    sub_version = scrapy.Field()
+    trim_level = scrapy.Field()
+    name = scrapy.Field()

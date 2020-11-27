@@ -1,0 +1,1894 @@
+{
+  "car": [
+    {
+      "brand": "Mazda",
+      "model": [
+        {
+          "model": ["Mazda 2", "Mazda2"],
+          "trim_level": ["S"],
+          "engine_volume": ["1.5"],
+          "style": ["Hatchback", "Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Premium", "SE"]
+        },
+        {
+          "model": ["Mazda 3", "Mazda3"],
+          "trim_level": [],
+          "engine_volume": ["1.5", "2.0"],
+          "style": ["Sedan", "Hatchback"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Mazda 6", "Mazda6"],
+          "trim_level": [],
+          "engine_volume": ["2.5", "2.0"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Premium"]
+        },
+        {
+          "model": ["CX-5", "CX5"],
+          "trim_level": ["L", "V"],
+          "engine_volume": ["2.0", "2.5"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["2WD", "4WD", "AWD"]
+        },
+        {
+          "model": ["CX-9", "CX9"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model":["BT-50", "BT50"],
+          "trim_level": ["ATH"],
+          "engine_volume": ["2.2", "3.2"],
+          "style": ["Pickup"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["4x4", "4x2"]
+        }
+      ]
+    },
+    {
+      "brand": "Toyota",
+      "model": [
+        {
+          "model": ["Wigo"],
+          "trim_level": ["G", "E"],
+          "engine_volume": ["1.2"],
+          "style": ["Hatchback"],
+          "transmission": ["MT", "AT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Vios"],
+          "trim_level": ["G", "E"],
+          "engine_volume": ["1.5"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Altis"],
+          "trim_level": ["G", "E", "V"],
+          "engine_volume": ["1.8", "2.0"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Luxury", "Sport"]
+        },
+        {
+          "model": ["Yaris"],
+          "trim_level": ["G", "E"],
+          "engine_volume": ["1.5"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Camry"],
+          "trim_level": ["G", "E", "Q"],
+          "engine_volume": ["2.0", "2.4", "2.5"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Avanza"],
+          "trim_level": ["G", "E"],
+          "engine_volume": ["1.3", "1.5"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Innova"],
+          "trim_level": ["G", "E", "V", "J", "H"],
+          "engine_volume": ["2.0"],
+          "style": ["MPV"],
+          "transmission": ["MT", "AT"],
+          "sub_version": ["Venturer"]
+        },
+        {
+          "model": ["Fortuner"],
+          "trim_level": ["G", "E", "V"],
+          "engine_volume": ["2.4", "2.7", "2.8"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT"],
+          "sub_version": ["4x2", "4x4"]
+        },
+        {
+          "model": ["Alphard"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["MPV"],
+          "transmission": ["MT", "AT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Prado"],
+          "trim_level": ["VX"],
+          "engine_volume": ["2.7"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Land Cruiser"],
+          "trim_level": ["VX"],
+          "engine_volume": ["1.2"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Hilux"],
+          "trim_level": ["G", "E"],
+          "engine_volume": ["2.4", "2.8"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT"],
+          "sub_version": ["4x4", "4x2"]
+        }
+      ]
+    },
+    {
+      "brand": "Nissan",
+      "model": [
+        {
+          "model": ["Sunny"],
+          "trim_level": ["XL", "XT", "XV"],
+          "engine_volume": ["1.5"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Teana"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Juke"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Navara"],
+          "trim_level": ["EL", "SL", "VL", "E"],
+          "engine_volume": [],
+          "style": ["Pickup"],
+          "transmission": ["MT", "AT"],
+          "sub_version": ["4x4", "4x2"]
+        },
+        {
+          "model": ["Murano"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT"],
+          "sub_version": []
+        },
+        {
+          "model": ["370z"],
+          "trim_level": ["Nismo"],
+          "engine_volume": [],
+          "style": ["Coupe"],
+          "transmission": ["MT", "AT"],
+          "sub_version": []
+        },
+        {
+          "model": ["X-Trail", "Xtrail"],
+          "trim_level": ["SL", "SV"],
+          "engine_volume": ["2.0", "2.5"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT"],
+          "sub_version": ["VP", "VL"]
+        },
+        {
+          "model": ["Terra"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT"],
+          "sub_version": []
+        }
+      ]
+    },
+    {
+      "brand": "Kia",
+      "model": [
+        {
+          "model": ["Morning"],
+          "trim_level": ["Si", "EX", "S"],
+          "engine_volume": ["1.0", "1.25", "1.2"],
+          "style": ["Hatchback"],
+          "transmission": ["MT", "AT"],
+          "sub_version": ["Van"]
+        },
+        {
+          "model": ["Rio"],
+          "trim_level": [],
+          "engine_volume": ["1.4"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Cerato"],
+          "trim_level": [],
+          "engine_volume": ["1.6", "2.0"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT"],
+          "sub_version": ["Base", "Koup"]
+        },
+        {
+          "model": ["Rondo"],
+          "trim_level": ["GATH", "DAT", "GMT", "GAT"],
+          "engine_volume": ["1.7", "2.0"],
+          "style": ["MPV"],
+          "transmission": ["MT", "AT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Optima"],
+          "trim_level": ["ATH", "GT-Line"],
+          "engine_volume": ["2.4", "2.0"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Sorento"],
+          "trim_level": ["DATH", "GATH", "GAT"],
+          "engine_volume": ["2.2", "2.4"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Sedona"],
+          "trim_level": ["DATH", "DAT", "GATH"],
+          "engine_volume": [""],
+          "style": ["MPV"],
+          "transmission": ["MT", "AT"],
+          "sub_version": ["Luxury", "Platinum"]
+        },
+        {
+          "model": ["Quoris"],
+          "trim_level": ["V6"],
+          "engine_volume": ["3.8"],
+          "style": [""],
+          "transmission": ["MT", "AT"],
+          "sub_version": []
+        }
+      ]
+    },
+    {
+      "brand": "Honda",
+      "model": [
+        {
+          "model": ["City"],
+          "trim_level": ["TOP"],
+          "engine_volume": ["1.5"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Jazz"],
+          "trim_level": ["V", "VX", "RS"],
+          "engine_volume": ["1.5"],
+          "style": ["Hatchback"],
+          "transmission": ["MT", "AT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Civic"],
+          "trim_level": ["L", "G", "E"],
+          "engine_volume": ["1.5", "1.8"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Accord"],
+          "trim_level": [],
+          "engine_volume": ["2.4"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT"],
+          "sub_version": []
+        },
+        {
+          "model": ["HR-V", "HRV"],
+          "trim_level": ["G", "L", "E"],
+          "engine_volume": ["1.5"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT"],
+          "sub_version": []
+        },
+        {
+          "model": ["CR-V", "CRV"],
+          "trim_level": ["G", "L", "E"],
+          "engine_volume": ["1.5"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT"],
+          "sub_version": []
+        }
+      ]
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": [
+        {
+          "model": ["Mirage"],
+          "trim_level": [],
+          "engine_volume": ["1.2"],
+          "style": ["Hatchback"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Eco"]
+        },
+        {
+          "model": ["Attrage"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Eco"]
+        },
+        {
+          "model": ["Xpander"],
+          "trim_level": [],
+          "engine_volume": ["1.5"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Outlander"],
+          "trim_level": [],
+          "engine_volume": ["2.0", "2.4"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Premium"]
+        },
+        {
+          "model": ["Pajero Sport"],
+          "trim_level": ["L", "V"],
+          "engine_volume": ["2.4", "3.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["4x4", "4x2"]
+        },
+        {
+          "model": ["Pajero"],
+          "trim_level": ["L", "V"],
+          "engine_volume": ["3.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["4x4", "4x2"]
+        },
+        {
+          "model": ["Triton"],
+          "trim_level": ["Athlete", "Mivec"],
+          "engine_volume": [],
+          "style": ["Pickup"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["4x4", "4x2"]
+        }
+      ]
+    },
+    {
+      "brand": "Hyundai",
+      "model": [
+        {
+          "model": ["i10"],
+          "trim_level": [],
+          "engine_volume": ["1.2", "1.0"],
+          "style": ["Hatchback", "Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Base"]
+        },
+        {
+          "model": ["Accent"],
+          "trim_level": [],
+          "engine_volume": ["1.4"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Base", "Special", "Đặc biệt"]
+        },
+        {
+          "model": ["Elantra"],
+          "trim_level": [],
+          "engine_volume": ["1.6", "2.0"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Sport"]
+        },
+        {
+          "model": ["Kona"],
+          "trim_level": [],
+          "engine_volume": ["2.0", "1.6"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Đặc biệt", "Turbo", "Special"]
+        },
+        {
+          "model": ["Sonata"],
+          "trim_level": [],
+          "engine_volume": ["2.0"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Genesis G90"],
+          "trim_level": [],
+          "engine_volume": ["3.8", "5.0"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Tucson"],
+          "trim_level": [],
+          "engine_volume": ["1.6", "2.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Turbo"]
+        },
+        {
+          "model": ["Santafe", "Santa Fe"],
+          "trim_level": ["Diesel"],
+          "engine_volume": ["2.2", "2.4"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["2WD", "4WD", "AWD"]
+        }
+      ]
+    },
+    {
+      "brand": "Mercedes",
+      "model": [
+        {
+          "model": ["C200", "C 200"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Cabriolet"]
+        },
+        {
+          "model": ["C250", "C 250"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Exclusive"]
+        },
+        {
+          "model": ["C300", "C 300"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["AMG"]
+        },
+        {
+          "model": ["C43", "C 43"],
+          "trim_level": [],
+          "engine_volume": ["2.0", "1.6"],
+          "style": ["Coupe"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["AMG"]
+        },
+        {
+          "model": ["E200", "E 200"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Coupe"]
+        },
+        {
+          "model": ["E250", "E 250"],
+          "trim_level": [],
+          "engine_volume": ["3.8", "5.0"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["E300", "E 300"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["AMG", "Coupe"]
+        },
+        {
+          "model": ["S400", "S 400"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Coupe"]
+        },
+        {
+          "model": ["S63", "S 63"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["AMG"]
+        },
+        {
+          "model": ["S65", "S 65"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["AMG"]
+        },
+        {
+          "model": ["S450", "S 450"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Maybach"]
+        },
+        {
+          "model": ["S500", "S 500"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Maybach", "Coupe"]
+        },
+        {
+          "model": ["S560", "S 560"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Maybach"]
+        },
+        {
+          "model": ["S650", "S 650"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Maybach"]
+        },
+        {
+          "model": ["A200", "A 200"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["A45", "A 45"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["S400", "S 400"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["CLA 200", "CLA200"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["CLA 250", "CLA250"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["4MATIC"]
+        },
+        {
+          "model": ["CLA 45", "CLA45"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["AMG"]
+        },
+        {
+          "model": ["GLA 200", "GLA200"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["4MATIC"]
+        },
+        {
+          "model": ["GLA 250", "GLA250"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["4MATIC"]
+        },
+        {
+          "model": ["GLE 400", "GLE400"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Exclusive", "Coupe"]
+        },
+        {
+          "model": ["GLA 45", "GLA45"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["AMG"]
+        },
+        {
+          "model": ["GLE 43", "GLE43"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["AMG"]
+        },
+        {
+          "model": ["GLE 63", "GLE 63"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["AMG"]
+        },
+        {
+          "model": ["GLE 43", "GLE43"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["AMG"]
+        },
+        {
+          "model": ["GLS 350", "GLS350"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["CDI"]
+        },
+        {
+          "model": ["GLS 400", "GLS400"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["4MATIC"]
+        },
+        {
+          "model": ["GLS 500", "GLS500"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["4MATIC"]
+        },
+        {
+          "model": ["GLS 63", "GLS63"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["AMG"]
+        },
+        {
+          "model": ["GLC 200", "GLC200"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["GLC 250", "GLC250"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["4MATIC"]
+        },
+        {
+          "model": ["G 63", "G63"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["AMG"]
+        },
+        {
+          "model": ["GLC 300", "GLC300"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["4MATIC"]
+        },
+        {
+          "model": ["V 220", "V220"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["CDI"]
+        }
+      ]
+    },
+    {
+      "brand": "Audi",
+      "model": [
+        {
+          "model": ["A3", "A 3"],
+          "trim_level": [],
+          "engine_volume": ["1.4"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["A4", "A 4"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["A5", "A 5"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Coupe"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["A6", "A 6"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["A7", "A 7"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["A8", "A 8"],
+          "trim_level": [],
+          "engine_volume": ["3.8", "5.0"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Q2", "Q 2"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Design"]
+        },
+        {
+          "model": ["Q3", "Q 3"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Q5", "Q 5"],
+          "trim_level": [],
+          "engine_volume": ["2.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Q7", "Q 7"],
+          "trim_level": [],
+          "engine_volume": ["2.0", "3.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Q8", "Q 8"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["R8", "R 8"],
+          "trim_level": ["L"],
+          "engine_volume": [],
+          "style": ["Coupe"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["RS7", "RS 7"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Coupe"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["S8", "S 8"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["TT"],
+          "trim_level": ["S"],
+          "engine_volume": [],
+          "style": ["Convertible"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        }
+      ]
+    },
+    {
+      "brand": "Ford",
+      "model": [
+        {
+          "model": ["Fiesta"],
+          "trim_level": [],
+          "engine_volume": ["1.5", "1.0"],
+          "style": ["Hatchback", "Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["EcoBoost Titanium", "EcoBoost Sport", "Sport", "Titanium", "Trend"]
+        },
+        {
+          "model": ["Focus"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Hatchback", "Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Sport", "Titanium"]
+        },
+        {
+          "model": ["Ecosport"],
+          "trim_level": [],
+          "engine_volume": ["1.0", "1.5"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Titanium", "Trend", "Ambiente"]
+        },
+        {
+          "model": ["Everest"],
+          "trim_level": [],
+          "engine_volume": ["2.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Trend", "Titanium"]
+        },
+        {
+          "model": ["Escape"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Explorer"],
+          "trim_level": [],
+          "engine_volume": ["2.3"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Ranger"],
+          "trim_level": ["Raptor", "Wildtrak", "XLS"],
+          "engine_volume": ["2.0", "2.2"],
+          "style": ["Pickup"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["4x4", "4x2"]
+        },
+        {
+          "model": ["F150", "F 150"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        }
+      ]
+    },
+    {
+      "brand": "Subaru",
+      "model": [
+        {
+          "model": ["Legacy"],
+          "trim_level": [],
+          "engine_volume": ["2.5"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["i-S"]
+        },
+        {
+          "model": ["Impreza"],
+          "trim_level": [],
+          "engine_volume": ["2.0"],
+          "style": ["Hatchback", "Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Levorg"],
+          "trim_level": [],
+          "engine_volume": ["1.6"],
+          "style": ["Hatchback"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Outback"],
+          "trim_level": ["i-S", "i-Eyesight"],
+          "engine_volume": ["2.5"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["XV"],
+          "trim_level": ["i-S EyeSight"],
+          "engine_volume": ["2.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["i-S"]
+        },
+        {
+          "model": ["WRX"],
+          "trim_level": ["STI", "STi"],
+          "engine_volume": ["2.5"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["BRZ"],
+          "trim_level": ["Raptor", "Wildtrak", "XLS"],
+          "engine_volume": ["2.0", "2.2"],
+          "style": ["Pickup"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["4x4", "4x2"]
+        },
+        {
+          "model": ["Forester"],
+          "trim_level": ["XT", "i-L"],
+          "engine_volume": ["2.0"],
+          "style": [],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        }
+      ]
+    },
+    {
+      "brand": "Porsche",
+      "model": [
+        {
+          "model": ["718 Boxster"],
+          "trim_level": ["S"],
+          "engine_volume": ["2.0", "2.5"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["718 Cayman"],
+          "trim_level": ["S"],
+          "engine_volume": ["2.0", "2.5"],
+          "style": [],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["911 Carrera"],
+          "trim_level": ["S"],
+          "engine_volume": ["3.0"],
+          "style": [],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Coupe", "Cabriolet"]
+        },
+        {
+          "model": ["911 Targa 4"],
+          "trim_level": ["S"],
+          "engine_volume": [],
+          "style": [],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["911 Turbo"],
+          "trim_level": ["i-S EyeSight", "S"],
+          "engine_volume": ["2.0"],
+          "style": [],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Coupe", "Cabriolet"]
+        },
+        {
+          "model": ["911 GT3"],
+          "trim_level": ["RS"],
+          "engine_volume": ["4.0"],
+          "style": [],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Panamera"],
+          "trim_level": ["4", "4S"],
+          "engine_volume": ["3.0", "4.0"],
+          "style": [],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Turbo Sport Turismo", "Turbo Executive", "Executive", "Turbo", "Sport Turismo"]
+        },
+        {
+          "model": ["Macan"],
+          "trim_level": ["GTS", "S"],
+          "engine_volume": ["2.0", "3.0", "3.6"],
+          "style": [],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Turbo"]
+        },
+        {
+          "model": ["Cayenne"],
+          "trim_level": ["S"],
+          "engine_volume": ["3.0", "4.0"],
+          "style": [],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Turbo"]
+        }
+      ]
+    },
+    {
+      "brand": "Chevrolet",
+      "model": [
+        {
+          "model": ["Spark"],
+          "trim_level": ["Van", "Duo", "LS", "LT"],
+          "engine_volume": ["1.2"],
+          "style": ["Hatchback"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Aveo"],
+          "trim_level": ["LT"],
+          "engine_volume": ["1.4"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Cruze"],
+          "trim_level": ["LT", "LTZ"],
+          "engine_volume": ["1.6", "1.8"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Trax"],
+          "trim_level": ["S"],
+          "engine_volume": ["1.4"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Turbo"]
+        },
+        {
+          "model": ["Orlando"],
+          "trim_level": ["LT", "LTZ"],
+          "engine_volume": ["1.8"],
+          "style": ["MPV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Colorado"],
+          "trim_level": ["LTZ", "LT", "HC"],
+          "engine_volume": ["2.5", "2.8"],
+          "style": ["Pickup"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["4x4", "4x2"]
+        },
+        {
+          "model": ["Captiva"],
+          "trim_level": ["LTZ"],
+          "engine_volume": ["2.4"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Trailblazer"],
+          "trim_level": ["LZT", "LT", "LZT"],
+          "engine_volume": ["2.5", "2.8"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["4x4", "4x2"]
+        },
+        {
+          "model": ["Cayenne"],
+          "trim_level": ["GTS","S"],
+          "engine_volume": ["3.0", "4.0"],
+          "style": [],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Turbo"]
+        }
+      ]
+    },
+    {
+      "brand": "Volkswagen",
+      "model": [
+        {
+          "model": ["Beetle"],
+          "trim_level": ["Dune"],
+          "engine_volume": [],
+          "style": [],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Jetta"],
+          "trim_level": [],
+          "engine_volume": ["1.4"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Polo"],
+          "trim_level": ["GP", "Cross"],
+          "engine_volume": ["1.6"],
+          "style": ["Sedan", "Hatchback", "SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Scirocco"],
+          "trim_level": ["GTS", "R"],
+          "engine_volume": ["2.0"],
+          "style": ["Hatchback"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Passat"],
+          "trim_level": [],
+          "engine_volume": ["1.8"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["GP", " Blue Motion Comford", "Blue Motion"]
+        },
+        {
+          "model": ["Tiguan"],
+          "trim_level": [],
+          "engine_volume": ["2.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Touareg"],
+          "trim_level": ["GP"],
+          "engine_volume": ["3.0", "4.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Sharan"],
+          "trim_level": [],
+          "engine_volume": ["2.0"],
+          "style": ["MPV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        }
+      ]
+    },
+    {
+      "brand": "Peugeot",
+      "model": [
+        {
+          "model": ["208"],
+          "trim_level": [],
+          "engine_volume": ["1.6"],
+          "style": ["Hatchback"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["2008"],
+          "trim_level": [],
+          "engine_volume": ["1.2"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["308"],
+          "trim_level": ["GT"],
+          "engine_volume": ["1.6"],
+          "style": ["Hatchback"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["3008"],
+          "trim_level": ["All new"],
+          "engine_volume": ["1.6"],
+          "style": ["Hatchback"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["408"],
+          "trim_level": [],
+          "engine_volume": ["2.0"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["508"],
+          "trim_level": [],
+          "engine_volume": ["1.6"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["5008"],
+          "trim_level": ["GP"],
+          "engine_volume": ["1.6"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["RCZ"],
+          "trim_level": [],
+          "engine_volume": ["1.6"],
+          "style": ["Coupe"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "model": [
+        {
+          "model": ["118i"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Hatchback"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["High"]
+        },
+        {
+          "model": ["218i"],
+          "trim_level": [],
+          "engine_volume": ["1.5"],
+          "style": ["MPV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["High"]
+        },
+        {
+          "model": ["320i"],
+          "trim_level": [],
+          "engine_volume": ["2.0"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["High", "GT"]
+        },
+        {
+          "model": ["420i"],
+          "trim_level": [],
+          "engine_volume": ["2.0"],
+          "style": [],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Gran Coupe"]
+        },
+        {
+          "model": ["430i"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Coupe"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Convertible", "Gran Coupe"]
+        },
+        {
+          "model": ["528i"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Gran", "GT"]
+        },
+        {
+          "model": ["640i"],
+          "trim_level": [],
+          "engine_volume": ["3.0"],
+          "style": ["Coupe"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Gran Coupe"]
+        },
+        {
+          "model": ["528i"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Gran", "GT"]
+        },
+        {
+          "model": ["730Li"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["740Li"],
+          "trim_level": [],
+          "engine_volume": ["4.4"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["X1"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["X2"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["X3"],
+          "trim_level": [],
+          "engine_volume": ["2.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["sDrive20i"]
+        },
+        {
+          "model": ["X4"],
+          "trim_level": [],
+          "engine_volume": ["2.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["xDrive20i"]
+        },
+        {
+          "model": ["X5"],
+          "trim_level": [],
+          "engine_volume": ["3.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["xDrive35i"]
+        },
+        {
+          "model": ["X6"],
+          "trim_level": [],
+          "engine_volume": ["3.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["xDrive35i"]
+        },
+        {
+          "model": ["M4"],
+          "trim_level": [],
+          "engine_volume": ["3.0"],
+          "style": ["Coupe"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Coupe"]
+        },
+        {
+          "model": ["M2"],
+          "trim_level": [],
+          "engine_volume": ["3.0"],
+          "style": ["Coupe"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Coupe"]
+        }
+      ]
+    },
+    {
+      "brand": "Land Rover",
+      "model": [
+        {
+          "model": ["Discovery"],
+          "trim_level": ["HSE Lux", "HSE", "SE"],
+          "engine_volume": ["2.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["V6SC", "TDV6"]
+        },
+        {
+          "model": ["Discovery Sport"],
+          "trim_level": [],
+          "engine_volume": ["2.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["HSE Lux", "HSE", "SE"]
+        },
+        {
+          "model": ["Range Rover Velar"],
+          "trim_level": ["R-Dynamic", "Velar Base"],
+          "engine_volume": ["2.0", "3.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["SE"]
+        },
+        {
+          "model": ["Range Rover Evoque"],
+          "trim_level": ["SE Plus", "HSE Dynamic", "HSE", "Convertible HSE Dynamic"],
+          "engine_volume": ["2.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Range Rover"],
+          "trim_level": [],
+          "engine_volume": ["3.0", "5.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["WB SVAB", "LWB AB", "Vogue", "HSE"]
+        },
+        {
+          "model": ["Range Rover Sport"],
+          "trim_level": ["HSE Dyn", "HSE", "HE"],
+          "engine_volume": ["2.0", "3.0"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Gran", "GT"]
+        }
+      ]
+    },
+    {
+      "brand": "Mini Cooper",
+      "model": [
+        {
+          "model": ["Clubman"],
+          "trim_level": ["S"],
+          "engine_volume": ["1.5", "2.0"],
+          "style": ["Compact"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Roadster"],
+          "trim_level": [],
+          "engine_volume": ["1.6"],
+          "style": ["Convertible"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Countryman"],
+          "trim_level": [],
+          "engine_volume": ["1.5"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Standard"]
+        },
+        {
+          "model": ["Convertible"],
+          "trim_level": ["S"],
+          "engine_volume": ["1.5"],
+          "style": ["Convertible"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["3 Cửa"],
+          "trim_level": ["S"],
+          "engine_volume": ["1.5", "2.0"],
+          "style": ["Hatchback"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["5 Cửa"],
+          "trim_level": ["S"],
+          "engine_volume": ["1.5", "2.0"],
+          "style": ["Hatchback"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        }
+      ]
+    },
+    {
+      "brand": "Maserati",
+      "model": [
+        {
+          "model": ["Levante"],
+          "trim_level": ["S", "Tiêu chuẩn"],
+          "engine_volume": ["3.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Ghibli"],
+          "trim_level": ["S Q4", "S"],
+          "engine_volume": ["3.0"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Granturismo"],
+          "trim_level": [],
+          "engine_volume": ["4.7"],
+          "style": ["Coupe"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Quattroporte"],
+          "trim_level": ["Gransport GTS", "Granlusso GTS", "GTS", "S Q4", "S"],
+          "engine_volume": ["3.0"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        }
+      ]
+    },
+    {
+      "brand": "Volvo",
+      "model": [
+        {
+          "model": ["XC90"],
+          "trim_level": ["Momentum", "Inscription"],
+          "engine_volume": ["2.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["XC60"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["XC40"],
+          "trim_level": [],
+          "engine_volume": ["2.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["S60"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["S90"],
+          "trim_level": ["Momentum", "Inscription"],
+          "engine_volume": ["2.0"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["V90 Cross Country"],
+          "trim_level": [],
+          "engine_volume": ["2.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Polestar"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        }
+      ]
+    },
+    {
+      "brand": "Lexus",
+      "model": [
+        {
+          "model": ["ES250", "ES 250"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["ES300h", "ES 300h"],
+          "trim_level": [],
+          "engine_volume": ["2.5"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["GS300", "GS 300"],
+          "trim_level": [],
+          "engine_volume": ["2.0"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["GS350", "GS 350"],
+          "trim_level": [],
+          "engine_volume": ["3.4"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["NX300", "NX 300"],
+          "trim_level": [],
+          "engine_volume": ["2.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["RX350", "RX 350"],
+          "trim_level": [],
+          "engine_volume": ["2.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["RX350L", "RX 350L"],
+          "trim_level": [],
+          "engine_volume": ["3.4"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["RX450H", "RX 450H"],
+          "trim_level": ["Hybrid"],
+          "engine_volume": [],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["GX460", "GX 460"],
+          "trim_level": [],
+          "engine_volume": ["4.6"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["LX570", "LX 570"],
+          "trim_level": [],
+          "engine_volume": ["5.6"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["RC300", "RC 300"],
+          "trim_level": [],
+          "engine_volume": ["2.0"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["RX300", "RX 300"],
+          "trim_level": [],
+          "engine_volume": ["2.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["LS500", "LS 500"],
+          "trim_level": [],
+          "engine_volume": ["3.5"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["LS500h", "LS 500h"],
+          "trim_level": ["Hybrid"],
+          "engine_volume": [],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        }
+      ]
+    },
+    {
+      "brand": "Suzuki",
+      "model": [
+        {
+          "model": ["Celerio"],
+          "trim_level": [],
+          "engine_volume": ["1.0"],
+          "style": ["Hatchback"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Swift"],
+          "trim_level": [],
+          "engine_volume": [],
+          "style": ["Hatchback"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Tiêu chuẩn", "Cao cấp"]
+        },
+        {
+          "model": ["Vitara"],
+          "trim_level": [],
+          "engine_volume": ["1.6"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Ciaz"],
+          "trim_level": [],
+          "engine_volume": ["1.4"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        },
+        {
+          "model": ["Ertiga"],
+          "trim_level": [],
+          "engine_volume": ["1.4"],
+          "style": ["MVP"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": []
+        }
+      ]
+    },
+    {
+      "brand": "Jaguar",
+      "model": [
+        {
+          "model": ["XE"],
+          "trim_level": ["P"],
+          "engine_volume": ["2.0"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Portfolio", "Prestige"]
+        },
+        {
+          "model": ["XF"],
+          "trim_level": ["P"],
+          "engine_volume": ["2.0", "3.0"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Prestige", "Prestig", "Pure"]
+        },
+        {
+          "model": ["XJL"],
+          "trim_level": [],
+          "engine_volume": ["2.0", "3.0", "5.0"],
+          "style": ["Sedan"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Portfolio"]
+        },
+        {
+          "model": ["F-Type", "F Type", "Ftype"],
+          "trim_level": ["R-Dynamic", "Convertible"],
+          "engine_volume": ["5.0", "3.0"],
+          "style": ["Convertible"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Coupe S", "Coupe"]
+        },
+        {
+          "model": ["E-Pace", "Epace", "E Pace"],
+          "trim_level": [],
+          "engine_volume": ["2.0", "3.0"],
+          "style": ["SUV"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["S", "First Edition", "R-Dynamic"]
+        },
+        {
+          "model": ["F-Pace", "Fpace", "F Pace"],
+          "trim_level": [],
+          "engine_volume": ["2.0", "3.0"],
+          "style": ["MVP"],
+          "transmission": ["MT", "AT", "CVT"],
+          "sub_version": ["Pure", "Prestige", "R-port", "Porttfolio"]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+scrapy
+scrapy-splash
+requests
+scrapy-proxies
+pymongo
+pandas
+flask-pymongo
+flask_paginate

@@ -1,0 +1,4 @@
+.idea
+app/__pycache__
+car_scraper/__pycache__/
+car_scraper/spiders/__pycache__/

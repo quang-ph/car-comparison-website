@@ -1,0 +1,15 @@
+"subject","selector","default",
+"car_name","//div[@class=""detailmain_info""]/div[@class=""name""]/p/text()",,
+"dimension","//div[@class=""detail_info""]/div[@class=""detail_content""][1]/div[1]/div[2]/text()",,"Dài x rộng x cao (mm)"
+"fuel_tank_capacity","//div[@class=""detail_info""]/div[@class=""detail_content""][1]/div[2]/div[2]/text()",,"Dung tích bình xăng (lít)"
+"engine","//div[@class=""detail_info""]/div[@class=""detail_content""][1]/div[3]/div[2]/text()",,"Động cơ"
+"engine_power","//div[@class=""detail_info""]/div[@class=""detail_content""][1]/div[4]/div[2]/text()",,"Công suất (mã lực)"
+"torque","//div[@class=""detail_info""]/div[@class=""detail_content""][1]/div[5]/div[2]/text()",,"Mô-men xoắn"
+"ground_clearance","//div[@class=""detail_info""]/div[@class=""detail_content""][1]/div[6]/div[2]/text()",,"Khoảng sáng gầm"
+"minimum_turn_diameter","//div[@class=""detail_info""]/div[@class=""detail_content""][1]/div[7]/div[2]/text()",,"Đường kính vòng quay tối thiểu "
+"source","//div[@class=""detail_info""]/div[@class=""detail_content""][1]/div[8]/div[2]/text()",,"Nguồn gốc"
+"car_type","//div[@class=""detail_info""]/div[@class=""detail_content""][1]/div[9]/div[2]/text()",,"Loại xe"
+"gear","//div[@class=""detail_info""]/div[@class=""detail_content""][1]/div[10]/div[2]/text()",,"Hộp số"
+"fuel_consumption","//div[@class=""detail_info""]/div[@class=""detail_content""][1]/div[11]/div[2]/text()",,"Mức tiêu thụ nhiên liệu"
+"price","//div[@id=""car_price""]/text()",,"Giá"
+"image","//div[@class=""main_info""]/img/@src",,"Ảnh"
